@@ -8,4 +8,5 @@ def find_peak_element(nums):
             right = mid    
     return left
 nums = [1, 2, 3, 1]
-print(find_peak_element(nums))
+shahid bhai
+
